@@ -1,7 +1,8 @@
 # sysinfo-app
-Simple system monitor app
+Simple system monitor app (Having fun with Electron)
 
-- Install Dev Environment -
-git pull 
-install dependencies (electron) - npm install
-run the app - electron .
+- Install -
+
+'git pull https://github.com/skinnn/sysinfo-app.git' (Pull with HTTPS) or Download ZIP
+install dependencies (electron) - 'npm install'
+run the app - 'electron .'
